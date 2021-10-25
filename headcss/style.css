@@ -1,0 +1,19 @@
+.h{
+    height:auto;
+    padding-left: 3%;
+
+}
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .container-fluid {
+    padding-top: 102px;
+  }
+ .img-fluid{
+     max-width: 100%;
+     height: auto;
+ }
